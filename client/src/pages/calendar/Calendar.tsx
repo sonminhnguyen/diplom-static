@@ -12,7 +12,7 @@ import EventModal from './EventModal';
 
 import { INITIAL_EVENTS } from './event-utils';
 
-import { getEvents } from '../../data/database';
+// import { getEvents } from '../../data/database';
 // import { Button } from 'rsuite';
 
 const Calendar = () => {
